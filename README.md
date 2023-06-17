@@ -4,13 +4,12 @@
 </p>
 
 ## Period
-June 19, 2023 ~ Sep 18   
+June 19, 2023 ~ Sep 18, 2023
 
 ## Rule
-Before to start offline study all member should read book and record important contents.
-
-## Penalty
-If you don't read book or don't record contents you should buy all of member's coffee at offline study.
+- 매주 월요일 **오후 7시**에 선릉역 근처 카페에서 스터디를 진행합니다.
+- 오프라인 스터디를 시작하기 전에 모든 구성원은 **책을 읽고, 중요한 내용을 기록**해야 합니다.
+- 위 사항들을 지키지 못할 경우, 스터디 회원 모두의 커피를 대신 결제해야 합니다.
 
 ## Part
 |Chapter|Speaker|
