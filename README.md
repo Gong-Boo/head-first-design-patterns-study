@@ -16,7 +16,7 @@ June 19, 2023 ~ Sep 18, 2023
 |Chapter|Speaker|
 |---|---|
 |01.디자인 패턴 소개와 전략 패턴 & 디자인 패턴의 세계로 떠나기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
-|02.옵저버 패턴 & 객체들에게 연락 돌리기|Undefined|
+|02.옵저버 패턴 & 객체들에게 연락 돌리기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
 |03.데코레이터 패턴 & 객체 꾸미기|Undefined|
 |04.팩토리 패턴 & 객체지향 빵 굽기|Undefined|
 |05.싱글턴 패턴 & 하나뿐인 특별한 객체 만들기|Undefined|
