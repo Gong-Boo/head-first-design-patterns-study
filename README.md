@@ -18,8 +18,8 @@ June 19, 2023 ~ Sep 18, 2023
 |01.디자인 패턴 소개와 전략 패턴 & 디자인 패턴의 세계로 떠나기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
 |02.옵저버 패턴 & 객체들에게 연락 돌리기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
 |03.데코레이터 패턴 & 객체 꾸미기|<a href="https://github.com/munyoung03">Munyoung Lee</a>|
-|04.팩토리 패턴 & 객체지향 빵 굽기|Undefined|
-|05.싱글턴 패턴 & 하나뿐인 특별한 객체 만들기|Undefined|
+|04.팩토리 패턴 & 객체지향 빵 굽기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
+|05.싱글턴 패턴 & 하나뿐인 특별한 객체 만들기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
 |06.커맨드 패턴 & 호출 캡슐화하기|Undefined|
 |07.어댑터 패턴과 퍼사드 패턴 & 적응시키기|Undefined|
 |08.템플릿 메소드 패턴 & 알고리즘 캡슐화하기|Undefined|
