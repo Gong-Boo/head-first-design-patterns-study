@@ -22,7 +22,7 @@ June 19, 2023 ~ Sep 18, 2023
 |05.싱글턴 패턴 & 하나뿐인 특별한 객체 만들기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
 |06.커맨드 패턴 & 호출 캡슐화하기|<a href="https://github.com/munyoung03">Munyoung Lee</a>|
 |07.어댑터 패턴과 퍼사드 패턴 & 적응시키기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
-|08.템플릿 메소드 패턴 & 알고리즘 캡슐화하기|Undefined|
+|08.템플릿 메소드 패턴 & 알고리즘 캡슐화하기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
 |09.반복자 패턴과 컴포지트 패턴 & 컬렉션 잘 관리하기|Undefined|
 |10.상태 패턴 & 객체의 상태 바꾸기|Undefined|
 |11.프록시 패턴 & 객체 접근 제어하기|Undefined|
