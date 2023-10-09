@@ -26,7 +26,7 @@ June 19, 2023 ~ Sep 18, 2023
 |09.반복자 패턴과 컴포지트 패턴 & 컬렉션 잘 관리하기|<a href="https://github.com/munyoung03">Munyoung Lee</a>|
 |10.상태 패턴 & 객체의 상태 바꾸기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
 |11.프록시 패턴 & 객체 접근 제어하기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
-|12.복합 패턴 & 패턴을 모아 패턴 만들기|Undefined|
+|12.복합 패턴 & 패턴을 모아 패턴 만들기|<a href="https://github.com/munyoung03">Munyoung Lee</a>|
 |13.실전 디자인 패턴 & 패턴과 행복하게 살아가기|Undefined|
 |14.기타 패턴 & 다양한 패턴 빠르게 알아보기|Undefined|
 
