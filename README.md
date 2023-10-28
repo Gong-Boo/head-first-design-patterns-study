@@ -4,7 +4,7 @@
 </p>
 
 ## Period
-June 19, 2023 ~ Sep 18, 2023
+June 19, 2023 ~ Oct 27, 2023
 
 ## Rule
 - 매주 수요일 **오후 7시**에 선릉역 근처 카페에서 스터디를 진행합니다.
@@ -27,8 +27,8 @@ June 19, 2023 ~ Sep 18, 2023
 |10.상태 패턴 & 객체의 상태 바꾸기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
 |11.프록시 패턴 & 객체 접근 제어하기|<a href="https://github.com/ParkJin0318">Jin Park</a>|
 |12.복합 패턴 & 패턴을 모아 패턴 만들기|<a href="https://github.com/munyoung03">Munyoung Lee</a>|
-|13.실전 디자인 패턴 & 패턴과 행복하게 살아가기|Undefined|
-|14.기타 패턴 & 다양한 패턴 빠르게 알아보기|Undefined|
+|13.실전 디자인 패턴 & 패턴과 행복하게 살아가기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
+|14.기타 패턴 & 다양한 패턴 빠르게 알아보기|<a href="https://github.com/juyeop03">Juyeop Kim</a>|
 
 ## Member
 <table>
